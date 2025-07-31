@@ -1,5 +1,4 @@
-// src/components/MatchingProductsCarousel.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import { AiOutlineLeft, AiOutlineRight } from "react-icons/ai";
 
 interface Product {

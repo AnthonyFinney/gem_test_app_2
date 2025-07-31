@@ -1,4 +1,3 @@
-// src/components/ProductDetail.tsx
 import React, { useRef, useState } from "react";
 import { FaChevronUp, FaChevronDown, FaStar, FaBell } from "react-icons/fa";
 import { RiShoppingBag3Fill } from "react-icons/ri";

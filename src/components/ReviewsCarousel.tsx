@@ -1,5 +1,4 @@
-// src/components/ReviewsCarousel.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import { AiOutlineLeft, AiOutlineRight, AiFillStar } from "react-icons/ai";
 
 interface Review {

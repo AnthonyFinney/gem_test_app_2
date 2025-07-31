@@ -1,6 +1,3 @@
-// src/components/FeatureHighlights.tsx
-import React from "react";
-
 const features = [
     {
         icon: <img src="/diamond.svg" className="h-16 w-16" />,
